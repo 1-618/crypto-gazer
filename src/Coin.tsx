@@ -1,6 +1,6 @@
 import React from 'react';
 import './Coin.css';
-import ICoinProps from './CoinInfo'
+import './App.css'
 
 const Coin = (props:any) => {
    const {
